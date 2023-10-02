@@ -17,7 +17,7 @@ n/a
 
 The webpage has a header with a navigation menu of three items at the top, which link to the sections below. There is a clear section for each of the three items that represent the three main services offered by the company. On the right, there is a side bar defining three of the main benefits of using the company's services. At the bottom is the company signature.
 
-![Website PDF](assets/images/screenshot.pdf)
+![Website PDF](assets/images/screenshot.jpeg)
 
 ## License
 
